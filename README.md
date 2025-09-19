@@ -12,6 +12,49 @@
 
 <p>Com isso, o sistema possibilita a implementação de operações de CRUD (Create, Read, Update, Delete) para produtos e usuários, servindo como uma base sólida para o aprendizado de APIs em PHP e também como ponto de partida para projetos reais que demandem integração backend.</p>
 
+<h2>Linguagens de Programação Usadas</h2>
+<ul>
+  <li>PHP (7.4 ou superior) → linguagem principal usada no Slim Framework.</li>
+  <li>SQL (MySQL) → usado para criação e manipulação de tabelas.</li>
+  <li>XML → para respostas em formato XML.</li>
+  <li>JSON → formato de resposta para APIs RESTful.</li>
+</ul>
+
+<h2>Frameworks e Bibliotecas PHP Usadas</h2>
+<ul>
+  <li>Slim Framework (v3 e v4)</li>
+  <li>Illuminate Database (Eloquent ORM)</li>
+  <li>PSR-7 (PHP-FIG)</li>
+  <li>Monolog → biblioteca para logging.</li>
+  <li>Php-View (slim/php-view) → renderização de templates PHP.</li>
+  <li>Firebase/php-jwt → manipulação de tokens JWT (JSON Web Tokens).</li>
+  <li>Tuupola/slim-jwt-auth → middleware para autenticação via JWT.</li>
+</ul>
+
+<h2>Conceitos e Padrões Usados</h2>
+<ul>
+  <li>REST / RESTful APIs</li>
+  <li>Middleware</li>
+  <li>Dependency Injection</li>
+  <li>Controllers com PSR-4 Autoload (Composer)</li>
+  <li>MVC</li>
+  <li>CORS</li>
+</ul>
+
+<h2>Banco de Dados</h2>
+<ul>
+  <li>MySQL</li>
+  <li>PDO (via Eloquent ORM)</li>
+</ul>
+
+<h2>Ferramentas</h2>
+<ul>
+  <li>Composer</li>
+  <li>Postman</li>
+  <li>phpMyAdmin</li>
+</ul>
+
+
 <hr>
 <h2>🔑 Autenticação</h2>
 
